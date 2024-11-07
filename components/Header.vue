@@ -169,7 +169,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
                         </ul>
                         <div class="nav-right">
                             <div class="search-btn">
