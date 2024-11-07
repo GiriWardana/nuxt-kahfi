@@ -1,6 +1,16 @@
 export default {
+  //BELOW IS FOR SSG
+  // target: 'static',
+  // generate: {
+  //   routes: ['/contact',],
+  //   fallback: true,
+  // },
+  // router: {
+  //   mode: 'history',
+  //   trainingSlash: true
+  // },
+  //ABOVE IS FOR SSG
   // Global page headers: https://go.nuxtjs.dev/config-head
-  // layout: 'HeaderFooter',
   head: {
     title: 'nuxt-axios-kahfi',
     htmlAttrs: {
