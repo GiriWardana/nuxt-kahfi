@@ -69,7 +69,7 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="contact-img">
-                        <img src="assets/img/contact/01.jpg" alt="">
+                        <img src="~/static/assets/img/contact/01.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-7 align-self-center">

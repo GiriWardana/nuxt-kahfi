@@ -77,7 +77,7 @@
             <nav class="navbar navbar-expand-lg">
                 <div class="container position-relative">
                     <a class="navbar-brand" href="index.html">
-                        <img src="assets/img/logo/logo.png" alt="logo">
+                        <img src="~/static/assets/img/logo/logo.png" alt="logo">
                     </a>
                     <div class="mobile-menu-right">
                         <div class="search-btn">
@@ -111,7 +111,7 @@
                                                     <h5>About Us</h5>
                                                     <div class="menu-about">
                                                         <a href="#" class="menu-about-logo"><img
-                                                                src="assets/img/logo/logo-light.png" alt=""></a>
+                                                                src="~/static/assets/img/logo/logo-light.png" alt=""></a>
                                                         <p>We are many variations of passages available but the majority
                                                             have suffered alteration in some form by injected humour
                                                             words injected humour believable.</p>
@@ -169,8 +169,9 @@
                                     </div>
                                 </div>
                             </li>
-                            <li class="nav-item"><a class="nav-link" href="blog">Blog</a></li>
-                            <li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/gallery">Gallery</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
                         </ul>
                         <div class="nav-right">
                             <div class="search-btn">

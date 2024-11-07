@@ -24,26 +24,22 @@ export default {
       { rel: 'stylesheet', href: '/assets/css/magnific-popup.min.css' },
       { rel: 'stylesheet', href: '/assets/css/owl.carousel.min.css' },
       { rel: 'stylesheet', href: '/assets/css/style.css' }
+    ],
+    script: [
+      { src: '/assets/js/jquery-3.7.1.min.js', defer: true },
+      { src: '/assets/js/modernizr.min.js', defer: true },
+      { src: '/assets/js/bootstrap.bundle.min.js', defer: true },
+      { src: '/assets/js/imagesloaded.pkgd.min.js', defer: true },
+      { src: '/assets/js/jquery.magnific-popup.min.js', defer: true },
+      { src: '/assets/js/isotope.pkgd.min.js', defer: true },
+      { src: '/assets/js/jquery.appear.min.js', defer: true },
+      { src: '/assets/js/jquery.easing.min.js', defer: true },
+      { src: '/assets/js/owl.carousel.min.js', defer: true },
+      { src: '/assets/js/counter-up.js', defer: true },
+      { src: '/assets/js/wow.min.js', defer: true },
+      { src: '/assets/js/main.js', defer: true }
     ]
   },
-
-  // script: [
-    // jQuery
-    // { src: '/assets/js/jquery-3.7.1.min.js', type: 'text/javascript' },
-    
-    // Other JS files
-    // { src: '/assets/js/modernizr.min.js', type: 'text/javascript' },
-    // { src: '/assets/js/bootstrap.bundle.min.js', type: 'text/javascript' },
-    // { src: '/assets/js/imagesloaded.pkgd.min.js', type: 'text/javascript' },
-    // { src: '/assets/js/jquery.magnific-popup.min.js', type: 'text/javascript' },
-    // { src: '/assets/js/isotope.pkgd.min.js', type: 'text/javascript' },
-    // { src: '/assets/js/jquery.appear.min.js', type: 'text/javascript' },
-    // { src: '/assets/js/jquery.easing.min.js', type: 'text/javascript' },
-    // { src: '/assets/js/owl.carousel.min.js', type: 'text/javascript' },
-    // { src: '/assets/js/counter-up.js', type: 'text/javascript' },
-    // { src: '/assets/js/wow.min.js', type: 'text/javascript' },
-    // { src: '/assets/js/main.js', type: 'text/javascript' }
-  // ],
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [

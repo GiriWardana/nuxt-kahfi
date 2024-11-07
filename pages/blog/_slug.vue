@@ -4,7 +4,7 @@
 <main class="main">
 
 <!-- breadcrumb -->
-<div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
+<div class="site-breadcrumb" :style="backgroundStyle">
     <div class="container">
         <h2 class="breadcrumb-title">Blog Single</h2>
         <ul class="breadcrumb-menu">
@@ -24,7 +24,7 @@
                 <div class="blog-single-wrapper">
                     <div class="blog-single-content">
                         <div class="blog-thumb-img">
-                            <img src="assets/img/blog/single.jpg"  alt="thumb">
+                            <img src="~/static/assets/img/blog/single.jpg"  alt="thumb">
                         </div>
                         <div class="blog-info">
                             <div class="blog-meta">
@@ -57,10 +57,10 @@
 
                                 <div class="row">
                                     <div class="col-md-6 mb-20">
-                                        <img src="assets/img/blog/01.jpg" alt="">
+                                        <img src="~/static/assets/img/blog/01.jpg" alt="">
                                     </div>
                                     <div class="col-md-6 mb-20">
-                                        <img src="assets/img/blog/02.jpg" alt="">
+                                        <img src="~/static/assets/img/blog/02.jpg" alt="">
                                     </div>
                                 </div>
                                 <p class="mb-20">
@@ -78,7 +78,7 @@
                             </div>
                             <div class="blog-author">
                                 <div class="blog-author-img">
-                                    <img src="assets/img/blog/author.jpg" alt="">
+                                    <img src="~/static/assets/img/blog/author.jpg" alt="">
                                 </div>
                                 <div class="author-info">
                                     <h6>Author</h6>
@@ -98,7 +98,7 @@
                             <h3>Comments (20)</h3>
                             <div class="blog-comments-wrapper">
                                 <div class="blog-comments-single">
-                                    <img src="assets/img/blog/com-1.jpg" alt="thumb">
+                                    <img src="~/static/assets/img/blog/com-1.jpg" alt="thumb">
                                     <div class="blog-comments-content">
                                         <h5>Kecia A. Parada</h5>
                                         <span><i class="far fa-clock"></i> June 18, 2024</span>
@@ -107,7 +107,7 @@
                                     </div>
                                 </div>
                                 <div class="blog-comments-single blog-comments-reply">
-                                    <img src="assets/img/blog/com-2.jpg" alt="thumb">
+                                    <img src="~/static/assets/img/blog/com-2.jpg" alt="thumb">
                                     <div class="blog-comments-content">
                                         <h5>Thomas A. Lindsey</h5>
                                         <span><i class="far fa-clock"></i> June 18, 2024</span>
@@ -116,7 +116,7 @@
                                     </div>
                                 </div>
                                 <div class="blog-comments-single">
-                                    <img src="assets/img/blog/com-3.jpg" alt="thumb">
+                                    <img src="~/static/assets/img/blog/com-3.jpg" alt="thumb">
                                     <div class="blog-comments-content">
                                         <h5>Mary R. Lujan</h5>
                                         <span><i class="far fa-clock"></i> June 18, 2024</span>
@@ -178,7 +178,7 @@
                         <h5 class="widget-title">Recent Post</h5>
                         <div class="recent-post-single">
                             <div class="recent-post-img">
-                                <img src="assets/img/blog/bs-1.jpg" alt="thumb">
+                                <img src="~/static/assets/img/blog/bs-1.jpg" alt="thumb">
                             </div>
                             <div class="recent-post-bio">
                                 <h6><a href="#">There are many variations passages available</a></h6>
@@ -187,7 +187,7 @@
                         </div>
                         <div class="recent-post-single">
                             <div class="recent-post-img">
-                                <img src="assets/img/blog/bs-2.jpg" alt="thumb">
+                                <img src="~/static/assets/img/blog/bs-2.jpg" alt="thumb">
                             </div>
                             <div class="recent-post-bio">
                                 <h6><a href="#">There are many variations passages available</a></h6>
@@ -196,7 +196,7 @@
                         </div>
                         <div class="recent-post-single">
                             <div class="recent-post-img">
-                                <img src="assets/img/blog/bs-3.jpg" alt="thumb">
+                                <img src="~/static/assets/img/blog/bs-3.jpg" alt="thumb">
                             </div>
                             <div class="recent-post-bio">
                                 <h6><a href="#">There are many variations passages available</a></h6>
@@ -246,6 +246,18 @@ export default {
   async asyncData({ params }) {
     return { slug: params.slug }
   },
-  name: 'BlogPost'
+  name: 'BlogPost',
+  data() {
+    return {
+      imageUrl: '/assets/img/breadcrumb/01.jpg'  // Set the image path relative to static/
+    };
+  },
+  computed: {
+    backgroundStyle() {
+      return {
+        backgroundImage: `url(${this.imageUrl})`
+      };
+    }
+  }
 };
 </script>

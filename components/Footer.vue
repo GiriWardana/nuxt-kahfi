@@ -31,7 +31,7 @@
     <!-- footer area -->
     <footer class="footer-area">
         <div class="footer-shape">
-            <img src="assets/img/shape/03.png" alt="">
+            <img src="~/static/assets/img/shape/03.png" alt="">
         </div>
         <div class="footer-widget">
             <div class="container">
@@ -39,7 +39,7 @@
                     <div class="col-md-6 col-lg-4">
                         <div class="footer-widget-box about-us">
                             <a href="#" class="footer-logo">
-                                <img src="assets/img/logo/logo-light.png" alt="">
+                                <img src="~/static/assets/img/logo/logo-light.png" alt="">
                             </a>
                             <p class="mb-3">
                                 We are many variations of passages available but the majority have suffered alteration
@@ -129,18 +129,18 @@
 
 
     <!-- js -->
-    <script src="assets/js/jquery-3.7.1.min.js"></script>
-    <script src="assets/js/modernizr.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/isotope.pkgd.min.js"></script>
-    <script src="assets/js/jquery.appear.min.js"></script>
-    <script src="assets/js/jquery.easing.min.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/counter-up.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/main.js"></script>
+    <!-- <script src="/_nuxt/static/assets/js/jquery-3.7.1.min.js"></script>
+    <script src="/static/assets/js/modernizr.min.js"></script>
+    <script src="/static/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="/static/assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="/static/assets/js/isotope.pkgd.min.js"></script>
+    <script src="/static/assets/js/jquery.appear.min.js"></script>
+    <script src="/static/assets/js/jquery.easing.min.js"></script>
+    <script src="/static/assets/js/owl.carousel.min.js"></script>
+    <script src="/static/assets/js/counter-up.js"></script>
+    <script src="/static/assets/js/wow.min.js"></script>
+    <script src="/static/assets/js/main.js"></script> -->
 
 </body>
 

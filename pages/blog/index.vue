@@ -33,7 +33,7 @@
                         <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
                             <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
                             <div class="blog-item-img">
-                                <img src="assets/img/blog/01.jpg" alt="Thumb">
+                                <img src="~/static/assets/img/blog/01.jpg" alt="Thumb">
                             </div>
                             <div class="blog-item-info">
                                 <div class="blog-item-meta">
@@ -54,7 +54,7 @@
                         <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
                             <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
                             <div class="blog-item-img">
-                                <img src="assets/img/blog/02.jpg" alt="Thumb">
+                                <img src="~/static/assets/img/blog/02.jpg" alt="Thumb">
                             </div>
                             <div class="blog-item-info">
                                 <div class="blog-item-meta">
@@ -74,7 +74,7 @@
                         <div class="blog-item wow fadeInUp" data-wow-delay=".75s">
                             <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
                             <div class="blog-item-img">
-                                <img src="assets/img/blog/03.jpg" alt="Thumb">
+                                <img src="~/static/assets/img/blog/03.jpg" alt="Thumb">
                             </div>
                             <div class="blog-item-info">
                                 <div class="blog-item-meta">
@@ -94,7 +94,7 @@
                         <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
                             <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
                             <div class="blog-item-img">
-                                <img src="assets/img/blog/01.jpg" alt="Thumb">
+                                <img src="~/static/assets/img/blog/01.jpg" alt="Thumb">
                             </div>
                             <div class="blog-item-info">
                                 <div class="blog-item-meta">
@@ -114,7 +114,7 @@
                         <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
                             <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
                             <div class="blog-item-img">
-                                <img src="assets/img/blog/02.jpg" alt="Thumb">
+                                <img src="~/static/assets/img/blog/02.jpg" alt="Thumb">
                             </div>
                             <div class="blog-item-info">
                                 <div class="blog-item-meta">
@@ -134,7 +134,7 @@
                         <div class="blog-item wow fadeInUp" data-wow-delay=".75s">
                             <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
                             <div class="blog-item-img">
-                                <img src="assets/img/blog/03.jpg" alt="Thumb">
+                                <img src="~/static/assets/img/blog/03.jpg" alt="Thumb">
                             </div>
                             <div class="blog-item-info">
                                 <div class="blog-item-meta">

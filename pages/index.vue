@@ -99,7 +99,7 @@
                     <div class="feature-item">
                         <span class="count">01</span>
                         <div class="feature-icon">
-                            <img src="assets/img/icon/scholarship.svg" alt="">
+                            <img src="~/static/assets/img/icon/scholarship.svg" alt="">
                         </div>
                         <div class="feature-content">
                             <h4 class="feature-title">Scholarship Facility</h4>
@@ -111,7 +111,7 @@
                     <div class="feature-item">
                         <span class="count">02</span>
                         <div class="feature-icon">
-                            <img src="assets/img/icon/teacher.svg" alt="">
+                            <img src="~/static/assets/img/icon/teacher.svg" alt="">
                         </div>
                         <div class="feature-content">
                             <h4 class="feature-title">Skilled Lecturers</h4>
@@ -123,7 +123,7 @@
                     <div class="feature-item">
                         <span class="count">03</span>
                         <div class="feature-icon">
-                            <img src="assets/img/icon/library.svg" alt="">
+                            <img src="~/static/assets/img/icon/library.svg" alt="">
                         </div>
                         <div class="feature-content">
                             <h4 class="feature-title">Book Library Facility</h4>
@@ -135,7 +135,7 @@
                     <div class="feature-item">
                         <span class="count">04</span>
                         <div class="feature-icon">
-                            <img src="assets/img/icon/money.svg" alt="">
+                            <img src="~/static/assets/img/icon/money.svg" alt="">
                         </div>
                         <div class="feature-content">
                             <h4 class="feature-title">Affordable Price</h4>
@@ -159,17 +159,17 @@
                     <div class="about-img">
                         <div class="row g-4">
                             <div class="col-md-6">
-                                <img class="img-1" src="assets/img/about/01.jpg" alt="">
+                                <img class="img-1" src="~/static/assets/img/about/01.jpg" alt="">
                                 <div class="about-experience mt-4">
                                     <div class="about-experience-icon">
-                                        <img src="assets/img/icon/exchange-idea.svg" alt="">
+                                        <img src="~/static/assets/img/icon/exchange-idea.svg" alt="">
                                     </div>
                                     <b class="text-start">30 Years Of <br> Quality Service</b>
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <img class="img-2" src="assets/img/about/02.jpg" alt="">
-                                <img class="img-3 mt-4" src="assets/img/about/03.jpg" alt="">
+                                <img class="img-2" src="~/static/assets/img/about/02.jpg" alt="">
+                                <img class="img-3 mt-4" src="~/static/assets/img/about/03.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -193,7 +193,7 @@
                             <div class="col-md-7">
                                 <div class="about-item">
                                     <div class="about-item-icon">
-                                        <img src="assets/img/icon/open-book.svg" alt="">
+                                        <img src="~/static/assets/img/icon/open-book.svg" alt="">
                                     </div>
                                     <div class="about-item-content">
                                         <h5>Edukation Services</h5>
@@ -202,7 +202,7 @@
                                 </div>
                                 <div class="about-item">
                                     <div class="about-item-icon">
-                                        <img src="assets/img/icon/global-education.svg" alt="">
+                                        <img src="~/static/assets/img/icon/global-education.svg" alt="">
                                     </div>
                                     <div class="about-item-content">
                                         <h5>International Hubs</h5>
@@ -246,7 +246,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="counter-box">
                     <div class="icon">
-                        <img src="assets/img/icon/course.svg" alt="">
+                        <img src="~/static/assets/img/icon/course.svg" alt="">
                     </div>
                     <div>
                         <span class="counter" data-count="+" data-to="500" data-speed="3000">500</span>
@@ -257,7 +257,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="counter-box">
                     <div class="icon">
-                        <img src="assets/img/icon/graduation.svg" alt="">
+                        <img src="~/static/assets/img/icon/graduation.svg" alt="">
                     </div>
                     <div>
                         <span class="counter" data-count="+" data-to="1900" data-speed="3000">1900</span>
@@ -268,7 +268,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="counter-box">
                     <div class="icon">
-                        <img src="assets/img/icon/teacher-2.svg" alt="">
+                        <img src="~/static/assets/img/icon/teacher-2.svg" alt="">
                     </div>
                     <div>
                         <span class="counter" data-count="+" data-to="750" data-speed="3000">750</span>
@@ -279,7 +279,7 @@
             <div class="col-lg-3 col-sm-6">
                 <div class="counter-box">
                     <div class="icon">
-                        <img src="assets/img/icon/award.svg" alt="">
+                        <img src="~/static/assets/img/icon/award.svg" alt="">
                     </div>
                     <div>
                         <span class="counter" data-count="+" data-to="30" data-speed="3000">30</span>
@@ -311,7 +311,7 @@
                 <div class="course-item wow fadeInUp" data-wow-delay=".25s">
                     <div class="course-img">
                         <span class="course-tag"><i class="far fa-bookmark"></i> Drama</span>
-                        <img src="assets/img/course/01.jpg" alt="">
+                        <img src="~/static/assets/img/course/01.jpg" alt="">
                         <a href="course-single.html" class="btn"><i class="far fa-link"></i></a>
                     </div>
                     <div class="course-content">
@@ -347,7 +347,7 @@
                 <div class="course-item wow fadeInUp" data-wow-delay=".50s">
                     <div class="course-img">
                         <span class="course-tag"><i class="far fa-bookmark"></i> Design</span>
-                        <img src="assets/img/course/02.jpg" alt="">
+                        <img src="~/static/assets/img/course/02.jpg" alt="">
                         <a href="course-single.html" class="btn"><i class="far fa-link"></i></a>
                     </div>
                     <div class="course-content">
@@ -383,7 +383,7 @@
                 <div class="course-item wow fadeInUp" data-wow-delay=".75s">
                     <div class="course-img">
                         <span class="course-tag"><i class="far fa-bookmark"></i> Science</span>
-                        <img src="assets/img/course/03.jpg" alt="">
+                        <img src="~/static/assets/img/course/03.jpg" alt="">
                         <a href="course-single.html" class="btn"><i class="far fa-link"></i></a>
                     </div>
                     <div class="course-content">
@@ -419,7 +419,7 @@
                 <div class="course-item wow fadeInUp" data-wow-delay=".25s">
                     <div class="course-img">
                         <span class="course-tag"><i class="far fa-bookmark"></i> Science</span>
-                        <img src="assets/img/course/04.jpg" alt="">
+                        <img src="~/static/assets/img/course/04.jpg" alt="">
                         <a href="course-single.html" class="btn"><i class="far fa-link"></i></a>
                     </div>
                     <div class="course-content">
@@ -455,7 +455,7 @@
                 <div class="course-item wow fadeInUp" data-wow-delay=".50s">
                     <div class="course-img">
                         <span class="course-tag"><i class="far fa-bookmark"></i> Health</span>
-                        <img src="assets/img/course/05.jpg" alt="">
+                        <img src="~/static/assets/img/course/05.jpg" alt="">
                         <a href="course-single.html" class="btn"><i class="far fa-link"></i></a>
                     </div>
                     <div class="course-content">
@@ -491,7 +491,7 @@
                 <div class="course-item wow fadeInUp" data-wow-delay=".75s">
                     <div class="course-img">
                         <span class="course-tag"><i class="far fa-bookmark"></i> Finance</span>
-                        <img src="assets/img/course/06.jpg" alt="">
+                        <img src="~/static/assets/img/course/06.jpg" alt="">
                         <a href="course-single.html" class="btn"><i class="far fa-link"></i></a>
                     </div>
                     <div class="course-content">
@@ -582,7 +582,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item wow fadeInUp" data-wow-delay=".25s">
                     <div class="team-img">
-                        <img src="assets/img/team/01.jpg" alt="thumb">
+                        <img src="~/static/assets/img/team/01.jpg" alt="thumb">
                     </div>
                     <div class="team-social">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -602,7 +602,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item wow fadeInUp" data-wow-delay=".50s">
                     <div class="team-img">
-                        <img src="assets/img/team/02.jpg" alt="thumb">
+                        <img src="~/static/assets/img/team/02.jpg" alt="thumb">
                     </div>
                     <div class="team-social">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -622,7 +622,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item wow fadeInUp" data-wow-delay=".75s">
                     <div class="team-img">
-                        <img src="assets/img/team/03.jpg" alt="thumb">
+                        <img src="~/static/assets/img/team/03.jpg" alt="thumb">
                     </div>
                     <div class="team-social">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -642,7 +642,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item wow fadeInUp" data-wow-delay="1s">
                     <div class="team-img">
-                        <img src="assets/img/team/04.jpg" alt="thumb">
+                        <img src="~/static/assets/img/team/04.jpg" alt="thumb">
                     </div>
                     <div class="team-social">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -686,7 +686,7 @@
                                 <div class="col-md-6">
                                     <div class="choose-item">
                                         <div class="choose-item-icon">
-                                            <img src="assets/img/icon/teacher-2.svg" alt="">
+                                            <img src="~/static/assets/img/icon/teacher-2.svg" alt="">
                                         </div>
                                         <div class="choose-item-info">
                                             <h4>Expert Teachers</h4>
@@ -697,7 +697,7 @@
                                 <div class="col-md-6">
                                     <div class="choose-item">
                                         <div class="choose-item-icon">
-                                            <img src="assets/img/icon/course-material.svg" alt="">
+                                            <img src="~/static/assets/img/icon/course-material.svg" alt="">
                                         </div>
                                         <div class="choose-item-info">
                                             <h4>Courses Material</h4>
@@ -708,7 +708,7 @@
                                 <div class="col-md-6">
                                     <div class="choose-item">
                                         <div class="choose-item-icon">
-                                            <img src="assets/img/icon/online-course.svg" alt="">
+                                            <img src="~/static/assets/img/icon/online-course.svg" alt="">
                                         </div>
                                         <div class="choose-item-info">
                                             <h4>Online Courses</h4>
@@ -719,7 +719,7 @@
                                 <div class="col-md-6">
                                     <div class="choose-item">
                                         <div class="choose-item-icon">
-                                            <img src="assets/img/icon/money.svg" alt="">
+                                            <img src="~/static/assets/img/icon/money.svg" alt="">
                                         </div>
                                         <div class="choose-item-info">
                                             <h4>Affordable Price</h4>
@@ -734,7 +734,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="choose-img wow fadeInRight" data-wow-delay=".25s">
-                    <img src="assets/img/choose/01.jpg" alt="">
+                    <img src="~/static/assets/img/choose/01.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -760,7 +760,7 @@
             <div class="col-md-4 wow fadeInUp" data-wow-delay=".25s">
                 <div class="gallery-item">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/01.jpg" alt="">
+                        <img src="~/static/assets/img/gallery/01.jpg" alt="">
                     </div>
                     <div class="gallery-content">
                         <a class="popup-img gallery-link" href="assets/img/gallery/01.jpg"><i
@@ -769,7 +769,7 @@
                 </div>
                 <div class="gallery-item">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/02.jpg" alt="">
+                        <img src="~/static/assets/img/gallery/02.jpg" alt="">
                     </div>
                     <div class="gallery-content">
                         <a class="popup-img gallery-link" href="assets/img/gallery/02.jpg"><i
@@ -780,7 +780,7 @@
             <div class="col-md-4 wow fadeInUp" data-wow-delay=".50s">
                 <div class="gallery-item">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/03.jpg" alt="">
+                        <img src="~/static/assets/img/gallery/03.jpg" alt="">
                     </div>
                     <div class="gallery-content">
                         <a class="popup-img gallery-link" href="assets/img/gallery/03.jpg"><i
@@ -789,7 +789,7 @@
                 </div>
                 <div class="gallery-item">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/04.jpg" alt="">
+                        <img src="~/static/assets/img/gallery/04.jpg" alt="">
                     </div>
                     <div class="gallery-content">
                         <a class="popup-img gallery-link" href="assets/img/gallery/04.jpg"><i
@@ -800,7 +800,7 @@
             <div class="col-md-4 wow fadeInUp" data-wow-delay=".75s">
                 <div class="gallery-item">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/05.jpg" alt="">
+                        <img src="~/static/assets/img/gallery/05.jpg" alt="">
                     </div>
                     <div class="gallery-content">
                         <a class="popup-img gallery-link" href="assets/img/gallery/05.jpg"><i
@@ -809,7 +809,7 @@
                 </div>
                 <div class="gallery-item">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/06.jpg" alt="">
+                        <img src="~/static/assets/img/gallery/06.jpg" alt="">
                     </div>
                     <div class="gallery-content">
                         <a class="popup-img gallery-link" href="assets/img/gallery/06.jpg"><i
@@ -866,7 +866,7 @@
                     <span><i class="far fa-map-marker-alt"></i> 25/B Milford Road, New York</span>
                 </div>
                 <div class="event-img">
-                    <img src="assets/img/event/01.jpg" alt="">
+                    <img src="~/static/assets/img/event/01.jpg" alt="">
                 </div>
                 <div class="event-info">
                     <div class="event-meta">
@@ -886,7 +886,7 @@
                     <span><i class="far fa-map-marker-alt"></i> 25/B Milford Road, New York</span>
                 </div>
                 <div class="event-img">
-                    <img src="assets/img/event/02.jpg" alt="">
+                    <img src="~/static/assets/img/event/02.jpg" alt="">
                 </div>
                 <div class="event-info">
                     <div class="event-meta">
@@ -906,7 +906,7 @@
                     <span><i class="far fa-map-marker-alt"></i> 25/B Milford Road, New York</span>
                 </div>
                 <div class="event-img">
-                    <img src="assets/img/event/03.jpg" alt="">
+                    <img src="~/static/assets/img/event/03.jpg" alt="">
                 </div>
                 <div class="event-info">
                     <div class="event-meta">
@@ -926,7 +926,7 @@
                     <span><i class="far fa-map-marker-alt"></i> 25/B Milford Road, New York</span>
                 </div>
                 <div class="event-img">
-                    <img src="assets/img/event/04.jpg" alt="">
+                    <img src="~/static/assets/img/event/04.jpg" alt="">
                 </div>
                 <div class="event-info">
                     <div class="event-meta">
@@ -1050,7 +1050,7 @@
         <div class="department-slider owl-carousel owl-theme">
             <div class="department-item">
                 <div class="department-icon">
-                    <img src="assets/img/icon/monitor.svg" alt="">
+                    <img src="~/static/assets/img/icon/monitor.svg" alt="">
                 </div>
                 <div class="department-info">
                     <h4 class="department-title"><a href="academic-single.html">Business And Finance</a></h4>
@@ -1062,7 +1062,7 @@
             </div>
             <div class="department-item">
                 <div class="department-icon">
-                    <img src="assets/img/icon/law.svg" alt="">
+                    <img src="~/static/assets/img/icon/law.svg" alt="">
                 </div>
                 <div class="department-info">
                     <h4 class="department-title"><a href="academic-single.html">Law And Criminology</a></h4>
@@ -1074,7 +1074,7 @@
             </div>
             <div class="department-item">
                 <div class="department-icon">
-                    <img src="assets/img/icon/data.svg" alt="">
+                    <img src="~/static/assets/img/icon/data.svg" alt="">
                 </div>
                 <div class="department-info">
                     <h4 class="department-title"><a href="academic-single.html">IT And Data Science</a></h4>
@@ -1086,7 +1086,7 @@
             </div>
             <div class="department-item">
                 <div class="department-icon">
-                    <img src="assets/img/icon/health.svg" alt="">
+                    <img src="~/static/assets/img/icon/health.svg" alt="">
                 </div>
                 <div class="department-info">
                     <h4 class="department-title"><a href="academic-single.html">Health And Medicine</a></h4>
@@ -1098,7 +1098,7 @@
             </div>
             <div class="department-item">
                 <div class="department-icon">
-                    <img src="assets/img/icon/art.svg" alt="">
+                    <img src="~/static/assets/img/icon/art.svg" alt="">
                 </div>
                 <div class="department-info">
                     <h4 class="department-title"><a href="academic-single.html">Art And Design</a></h4>
@@ -1144,7 +1144,7 @@
                 </div>
                 <div class="testimonial-content">
                     <div class="testimonial-author-img">
-                        <img src="assets/img/testimonial/01.jpg" alt="">
+                        <img src="~/static/assets/img/testimonial/01.jpg" alt="">
                     </div>
                     <div class="testimonial-author-info">
                         <h4>Anthony Nicoll</h4>
@@ -1168,7 +1168,7 @@
                 </div>
                 <div class="testimonial-content">
                     <div class="testimonial-author-img">
-                        <img src="assets/img/testimonial/02.jpg" alt="">
+                        <img src="~/static/assets/img/testimonial/02.jpg" alt="">
                     </div>
                     <div class="testimonial-author-info">
                         <h4>Richard Lock</h4>
@@ -1192,7 +1192,7 @@
                 </div>
                 <div class="testimonial-content">
                     <div class="testimonial-author-img">
-                        <img src="assets/img/testimonial/03.jpg" alt="">
+                        <img src="~/static/assets/img/testimonial/03.jpg" alt="">
                     </div>
                     <div class="testimonial-author-info">
                         <h4>Randal Grand</h4>
@@ -1216,7 +1216,7 @@
                 </div>
                 <div class="testimonial-content">
                     <div class="testimonial-author-img">
-                        <img src="assets/img/testimonial/04.jpg" alt="">
+                        <img src="~/static/assets/img/testimonial/04.jpg" alt="">
                     </div>
                     <div class="testimonial-author-info">
                         <h4>Edward Miles</h4>
@@ -1240,7 +1240,7 @@
                 </div>
                 <div class="testimonial-content">
                     <div class="testimonial-author-img">
-                        <img src="assets/img/testimonial/05.jpg" alt="">
+                        <img src="~/static/assets/img/testimonial/05.jpg" alt="">
                     </div>
                     <div class="testimonial-author-info">
                         <h4>Ninal Gordon</h4>
@@ -1273,7 +1273,7 @@
                 <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
                     <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
                     <div class="blog-item-img">
-                        <img src="assets/img/blog/01.jpg" alt="Thumb">
+                        <img src="~/static/assets/img/blog/01.jpg" alt="Thumb">
                     </div>
                     <div class="blog-item-info">
                         <div class="blog-item-meta">
@@ -1295,7 +1295,7 @@
                 <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
                     <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
                     <div class="blog-item-img">
-                        <img src="assets/img/blog/02.jpg" alt="Thumb">
+                        <img src="~/static/assets/img/blog/02.jpg" alt="Thumb">
                     </div>
                     <div class="blog-item-info">
                         <div class="blog-item-meta">
@@ -1317,7 +1317,7 @@
                 <div class="blog-item wow fadeInUp" data-wow-delay=".75s">
                     <div class="blog-date"><i class="fal fa-calendar-alt"></i> June 18, 2024</div>
                     <div class="blog-item-img">
-                        <img src="assets/img/blog/03.jpg" alt="Thumb">
+                        <img src="~/static/assets/img/blog/03.jpg" alt="Thumb">
                     </div>
                     <div class="blog-item-info">
                         <div class="blog-item-meta">
@@ -1345,13 +1345,13 @@
 <div class="partner-area bg pt-50 pb-50">
     <div class="container">
         <div class="partner-wrapper partner-slider owl-carousel owl-theme">
-            <img src="assets/img/partner/01.png" alt="thumb">
-            <img src="assets/img/partner/02.png" alt="thumb">
-            <img src="assets/img/partner/03.png" alt="thumb">
-            <img src="assets/img/partner/04.png" alt="thumb">
-            <img src="assets/img/partner/01.png" alt="thumb">
-            <img src="assets/img/partner/02.png" alt="thumb">
-            <img src="assets/img/partner/04.png" alt="thumb">
+            <img src="~/static/assets/img/partner/01.png" alt="thumb">
+            <img src="~/static/assets/img/partner/02.png" alt="thumb">
+            <img src="~/static/assets/img/partner/03.png" alt="thumb">
+            <img src="~/static/assets/img/partner/04.png" alt="thumb">
+            <img src="~/static/assets/img/partner/01.png" alt="thumb">
+            <img src="~/static/assets/img/partner/02.png" alt="thumb">
+            <img src="~/static/assets/img/partner/04.png" alt="thumb">
         </div>
     </div>
 </div>
