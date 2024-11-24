@@ -12,7 +12,22 @@ export default {
   //ABOVE IS FOR SSG
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'nuxt-axios-kahfi',
+    title: 'KAHFI - Kelompok Belajar Ikhtiar dan Fikir Islami',
+    meta: [
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'KAHFI (Kelompok Belajar Ikhtiar dan Fikir Islami) adalah lembaga motivator pertama yang ada di dunia yang semua peserta didiknya tidak dikenakan biaya dari segi materi.',
+      },
+      {
+        hid: 'keywords',
+        name: 'keywords',
+        content: 'KAHFI, motivator, islami, pendidikan gratis, fikir islami',
+      },
+      { charset: 'UTF-8' },
+      { 'http-equiv': 'X-UA-Compatible', content: 'IE=edge' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
+    ],
     htmlAttrs: {
       lang: 'en'
     },

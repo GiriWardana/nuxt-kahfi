@@ -20,10 +20,9 @@
         <div class="row">
             <div class="col-lg-6 mx-auto">
                 <div class="site-heading text-center">
-                    <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Gallery</span>
-                    <h2 class="site-title">Our Photo <span>Gallery</span></h2>
-                    <p>It is a long established fact that a reader will be distracted by the readable content of
-                        a page when looking at its layout.</p>
+                    <span class="site-title-tagline"><i class="far fa-images"></i> Galeri Kami</span>
+                    <h2 class="site-title"><span>Galeri</span> Kegiatan</h2>
+                    <p>Temukan momen-momen terbaik yang kami abadikan melalui berbagai kegiatan yang penuh inspirasi dan keseruan.</p>
                 </div>
             </div>
         </div>
