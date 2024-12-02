@@ -307,7 +307,7 @@
                         <h4 class="course-title">Kahfi Ustadz</h4>
                         <p class="course-text">Mencetak calon pendidik yang memiliki wawasan keislaman mendalam dan kemampuan mengajar.</p>
                         <div class="course-bottom">
-                            <span><i class="far fa-users"></i> 300 Peserta</span>
+                            <span><i class="far fa-users"></i> 300 Mahasiswa</span>
                             <span><i class="far fa-clock"></i> 3 Tahun</span>
                         </div>
                     </div>
@@ -323,7 +323,7 @@
                         <h4 class="course-title">Kahfi Leader</h4>
                         <p class="course-text">Program kepemimpinan yang mempersiapkan siswa untuk menjadi pemimpin masa depan.</p>
                         <div class="course-bottom">
-                            <span><i class="far fa-users"></i> 350 Peserta</span>
+                            <span><i class="far fa-users"></i> 350 Mahasiswa</span>
                             <span><i class="far fa-clock"></i> 3 Tahun</span>
                         </div>
                     </div>
@@ -371,7 +371,7 @@
                         <h4 class="course-title">Pesantren Akasyah</h4>
                         <p class="course-text">Program berbasis pesantren untuk memperkuat nilai keislaman dan kebersamaan.</p>
                         <div class="course-bottom">
-                            <span><i class="far fa-users"></i> 100 Peserta</span>
+                            <span><i class="far fa-users"></i> 100 Santri</span>
                             <span><i class="far fa-clock"></i> 1 Tahun</span>
                         </div>
                     </div>
@@ -556,7 +556,7 @@
                         </div>
                         <h4 class="blog-title">
                             <a href="blog-single.html">Kisah menarik yang menggugah pemikiran Anda.</a>
-                        </h4>
+                        </h4>   
                         <a class="theme-btn" href="blog-single.html">Baca Selengkapnya<i class="fas fa-arrow-right-long"></i></a>
                     </div>
                 </div>

@@ -17,7 +17,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: 'KAHFI (Kelompok Belajar Ikhtiar dan Fikir Islami) adalah lembaga motivator pertama yang ada di dunia yang semua peserta didiknya tidak dikenakan biaya dari segi materi.',
+        content: 'KAHFI (Kelompok Belajar Ikhtiar dan Fikir Islami) adalah lembaga motivator pertama yang ada di dunia yang semua Mahasiswa didiknya tidak dikenakan biaya dari segi materi.',
       },
       {
         hid: 'keywords',

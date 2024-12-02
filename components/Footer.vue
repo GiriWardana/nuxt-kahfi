@@ -18,7 +18,7 @@
                                 <img src="~/static/assets/img/logo/logo-light.png" alt="">
                             </a>
                             <p class="mb-3">
-                                KAHFI (Kelompok Belajar Ikhtiar dan Fikir Islami) adalah lembaga motivator pertama yang ada di dunia yang semua peserta didiknya tidak dikenakan biaya dari segi materi.
+                                KAHFI (Kelompok Belajar Ikhtiar dan Fikir Islami) adalah lembaga motivator pertama yang ada di dunia yang semua Mahasiswa didiknya tidak dikenakan biaya dari segi materi.
                             </p>
                             <ul class="footer-contact">
                                 <li><a href="https://maps.app.goo.gl/SdyqAfLETDLTpXTB9"><i class="far fa-map-marker-alt"></i>Komp. Ruko Karya Ganda Asri</a></li>

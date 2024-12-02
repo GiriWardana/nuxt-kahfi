@@ -57,10 +57,10 @@
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Tentang Kahfi</a>
                                 <ul class="dropdown-menu fade-down">
-                                    <li><a class="dropdown-item" href="course.html">Sejarah Kahfi</a></li>
-                                    <li><a class="dropdown-item" href="course-2.html">Sambutan</a></li>
-                                    <li><a class="dropdown-item" href="course-single.html">Dewan Wali</a></li>
-                                    <li><a class="dropdown-item" href="course-single-2.html">Visi & Misi</a></li>
+                                    <li><a class="dropdown-item" href="/history">Sejarah Kahfi</a></li>
+                                    <li><a class="dropdown-item" href="/welcome">Sambutan</a></li>
+                                    <li><a class="dropdown-item" href="/teachers">Dewan Wali</a></li>
+                                    <li><a class="dropdown-item" href="/vision-mission">Visi & Misi</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item"><a class="nav-link" href="/gallery">Galleri</a></li>
