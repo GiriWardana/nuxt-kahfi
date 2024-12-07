@@ -20,7 +20,7 @@
         <div class="row align-items-center">
             <div class="col-md-4">
                 <div class="team-single-img">
-                    <img src="assets/img/team/ombagus.jpg" alt="Om Bagus">
+                    <img src="/assets/img/team/ombagus.jpg" alt="Om Bagus">
                 </div>
             </div>
             <div class="col-md-8">

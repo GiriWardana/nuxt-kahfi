@@ -30,19 +30,19 @@
             <div class="col-md-4 wow fadeInUp" data-wow-delay=".25s">
                 <div class="gallery-item">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/01.jpg" alt="">
+                        <img src="/assets/img/gallery/01.jpg" alt="">
                     </div>
                     <div class="gallery-content">
-                        <a class="popup-img gallery-link" href="assets/img/gallery/01.jpg"><i
+                        <a class="popup-img gallery-link" href="/assets/img/gallery/01.jpg"><i
                                 class="fal fa-plus"></i></a>
                     </div>
                 </div>
                 <div class="gallery-item">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/02.jpg" alt="">
+                        <img src="/assets/img/gallery/02.jpg" alt="">
                     </div>
                     <div class="gallery-content">
-                        <a class="popup-img gallery-link" href="assets/img/gallery/02.jpg"><i
+                        <a class="popup-img gallery-link" href="/assets/img/gallery/02.jpg"><i
                                 class="fal fa-plus"></i></a>
                     </div>
                 </div>
@@ -50,19 +50,19 @@
             <div class="col-md-4 wow fadeInUp" data-wow-delay=".50s">
                 <div class="gallery-item">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/03.jpg" alt="">
+                        <img src="/assets/img/gallery/03.jpg" alt="">
                     </div>
                     <div class="gallery-content">
-                        <a class="popup-img gallery-link" href="assets/img/gallery/03.jpg"><i
+                        <a class="popup-img gallery-link" href="/assets/img/gallery/03.jpg"><i
                                 class="fal fa-plus"></i></a>
                     </div>
                 </div>
                 <div class="gallery-item">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/04.jpg" alt="">
+                        <img src="/assets/img/gallery/04.jpg" alt="">
                     </div>
                     <div class="gallery-content">
-                        <a class="popup-img gallery-link" href="assets/img/gallery/04.jpg"><i
+                        <a class="popup-img gallery-link" href="/assets/img/gallery/04.jpg"><i
                                 class="fal fa-plus"></i></a>
                     </div>
                 </div>
@@ -70,19 +70,19 @@
             <div class="col-md-4 wow fadeInUp" data-wow-delay=".75s">
                 <div class="gallery-item">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/05.jpg" alt="">
+                        <img src="/assets/img/gallery/05.jpg" alt="">
                     </div>
                     <div class="gallery-content">
-                        <a class="popup-img gallery-link" href="assets/img/gallery/05.jpg"><i
+                        <a class="popup-img gallery-link" href="/assets/img/gallery/05.jpg"><i
                                 class="fal fa-plus"></i></a>
                     </div>
                 </div>
                 <div class="gallery-item">
                     <div class="gallery-img">
-                        <img src="assets/img/gallery/06.jpg" alt="">
+                        <img src="/assets/img/gallery/06.jpg" alt="">
                     </div>
                     <div class="gallery-content">
-                        <a class="popup-img gallery-link" href="assets/img/gallery/06.jpg"><i
+                        <a class="popup-img gallery-link" href="/assets/img/gallery/06.jpg"><i
                                 class="fal fa-plus"></i></a>
                     </div>
                 </div>

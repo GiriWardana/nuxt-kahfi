@@ -402,7 +402,7 @@
                         <img src="~/static/assets/img/gallery/01.jpg" alt="">
                     </div>
                     <div class="gallery-content">
-                        <a class="popup-img gallery-link" href="assets/img/gallery/01.jpg"><i
+                        <a class="popup-img gallery-link" href="/assets/img/gallery/01.jpg"><i
                                 class="fal fa-plus"></i></a>
                     </div>
                 </div>
@@ -411,7 +411,7 @@
                         <img src="~/static/assets/img/gallery/02.jpg" alt="">
                     </div>
                     <div class="gallery-content">
-                        <a class="popup-img gallery-link" href="assets/img/gallery/02.jpg"><i
+                        <a class="popup-img gallery-link" href="/assets/img/gallery/02.jpg"><i
                                 class="fal fa-plus"></i></a>
                     </div>
                 </div>
@@ -422,7 +422,7 @@
                         <img src="~/static/assets/img/gallery/03.jpg" alt="">
                     </div>
                     <div class="gallery-content">
-                        <a class="popup-img gallery-link" href="assets/img/gallery/03.jpg"><i
+                        <a class="popup-img gallery-link" href="/assets/img/gallery/03.jpg"><i
                                 class="fal fa-plus"></i></a>
                     </div>
                 </div>
@@ -431,7 +431,7 @@
                         <img src="~/static/assets/img/gallery/04.jpg" alt="">
                     </div>
                     <div class="gallery-content">
-                        <a class="popup-img gallery-link" href="assets/img/gallery/04.jpg"><i
+                        <a class="popup-img gallery-link" href="/assets/img/gallery/04.jpg"><i
                                 class="fal fa-plus"></i></a>
                     </div>
                 </div>
@@ -442,7 +442,7 @@
                         <img src="~/static/assets/img/gallery/05.jpg" alt="">
                     </div>
                     <div class="gallery-content">
-                        <a class="popup-img gallery-link" href="assets/img/gallery/05.jpg"><i
+                        <a class="popup-img gallery-link" href="/assets/img/gallery/05.jpg"><i
                                 class="fal fa-plus"></i></a>
                     </div>
                 </div>
@@ -451,7 +451,7 @@
                         <img src="~/static/assets/img/gallery/06.jpg" alt="">
                     </div>
                     <div class="gallery-content">
-                        <a class="popup-img gallery-link" href="assets/img/gallery/06.jpg"><i
+                        <a class="popup-img gallery-link" href="/assets/img/gallery/06.jpg"><i
                                 class="fal fa-plus"></i></a>
                     </div>
                 </div>

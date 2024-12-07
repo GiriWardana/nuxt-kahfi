@@ -33,7 +33,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="assets/img/teachers/bogi.jpeg" alt="thumb">
+                        <img src="/assets/img/teachers/bogi.jpeg" alt="thumb">
                     </div>
                     <div class="team-content text-center">
                         <h5>Angela T. Vigil</h5>
@@ -44,7 +44,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="assets/img/teachers/hambali.jpeg" alt="thumb">
+                        <img src="/assets/img/teachers/hambali.jpeg" alt="thumb">
                     </div>
                     <div class="team-content text-center">
                         <h5>Frank A. Mitchell</h5>
@@ -55,7 +55,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="assets/img/teachers/icha.jpeg" alt="thumb">
+                        <img src="/assets/img/teachers/icha.jpeg" alt="thumb">
                     </div>
                     <div class="team-content text-center">
                         <h5>Susan D. Lunsford</h5>
@@ -66,7 +66,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="assets/img/teachers/iyang.jpeg" alt="thumb">
+                        <img src="/assets/img/teachers/iyang.jpeg" alt="thumb">
                     </div>
                     <div class="team-content text-center">
                         <h5>Dennis A. Pruitt</h5>
@@ -77,7 +77,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="assets/img/teachers/kaksyarif.jpeg" alt="thumb">
+                        <img src="/assets/img/teachers/kaksyarif.jpeg" alt="thumb">
                     </div>
                     <div class="team-content text-center">
                         <h5>Angela T. Vigil</h5>
@@ -88,7 +88,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="assets/img/teachers/mamduh.jpeg" alt="thumb">
+                        <img src="/assets/img/teachers/mamduh.jpeg" alt="thumb">
                     </div>
                     <div class="team-content text-center">
                         <h5>Frank A. Mitchell</h5>
@@ -99,7 +99,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="assets/img/teachers/milki.jpeg" alt="thumb">
+                        <img src="/assets/img/teachers/milki.jpeg" alt="thumb">
                     </div>
                     <div class="team-content text-center">
                         <h5>Susan D. Lunsford</h5>
@@ -110,7 +110,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="assets/img/teachers/oji.jpeg" alt="thumb">
+                        <img src="/assets/img/teachers/oji.jpeg" alt="thumb">
                     </div>
                     <div class="team-content text-center">
                         <h5>Dennis A. Pruitt</h5>
@@ -121,7 +121,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="assets/img/teachers/profsyarif.jpeg" alt="thumb">
+                        <img src="/assets/img/teachers/profsyarif.jpeg" alt="thumb">
                     </div>
                     <div class="team-content text-center">
                         <h5>Angela T. Vigil</h5>
@@ -132,7 +132,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="assets/img/teachers/rajesh.jpeg" alt="thumb">
+                        <img src="/assets/img/teachers/rajesh.jpeg" alt="thumb">
                     </div>
                     <div class="team-content text-center">
                         <h5>Frank A. Mitchell</h5>
@@ -143,7 +143,7 @@
             <div class="col-md-6 col-lg-3">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="assets/img/teachers/tiar.jpeg" alt="thumb">
+                        <img src="/assets/img/teachers/tiar.jpeg" alt="thumb">
                     </div>
                     <div class="team-content text-center">
                         <h5>Susan D. Lunsford</h5>
