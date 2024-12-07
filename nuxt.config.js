@@ -1,6 +1,6 @@
 export default {
   //BELOW IS FOR SSG
-  // target: 'static',
+  target: 'static',
   // generate: {
   //   routes: ['/contact',],
   //   fallback: true,
